@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1.9.cpp">
+    <ClCompile Include="1.10.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
