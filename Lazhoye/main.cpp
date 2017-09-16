@@ -2,7 +2,7 @@
 
 int	main() 
 {
-	//std::cout << "Hello, World" << std::endl;
+	/*std::cout << "Hello, World" << std::endl;
 	
 	std::cout << "Enter two numbers:" << std::endl;
 
@@ -16,8 +16,12 @@ int	main()
 	std::cout << " and ";
 	std::cout << v2;
 	std::cout << " is ";
-	std::cout << v1 * v2 << std::endl;
+	std::cout << v1 * v2 << std::endl; */
 
+	//std::cout << "/*";
+	//std::cout << "*/";
+	//std::cout <<"/* */ */";
+	std::cout <</* "*/" /* "/*"	*/;
 
 
 	return	0; 
