@@ -15,7 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1.17.cpp">
+    <ClInclude Include="Sales_item.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1.20.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
