@@ -150,7 +150,7 @@
     <ClInclude Include="Sales_item.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1.20.cpp" />
+    <ClCompile Include="1.24.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

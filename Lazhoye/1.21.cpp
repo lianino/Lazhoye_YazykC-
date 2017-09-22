@@ -1,0 +1,13 @@
+#include <iostream>
+#include "Sales_item.h"
+int	main() 
+{
+	Sales_item	item1, item2;
+	std::cin >> item1 >> item2;	  //прочитать	две	транзакции
+	// пример ввода
+	//0-201-78345-X	3 20.00
+	//0-201-78345-X	2 25.00	
+	std::cout << item1 + item2 << std::endl;	 // отобразить	их	сумму
+
+	return	0;
+}
